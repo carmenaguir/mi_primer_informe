@@ -1,5 +1,5 @@
 
-#Código generado en RStudio
+#Código generado en RStudio y modificado posteriormente en la red
 version
 
 system("git config --global user.name 'carmenaguir'")
